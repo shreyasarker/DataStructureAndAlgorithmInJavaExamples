@@ -5,7 +5,7 @@ import java.util.*;
 * Reverse an Array
 * 
 **/
-public class Main 
+public class ReverseArray 
 {
     public static void printArray(int[] arr) 
     {

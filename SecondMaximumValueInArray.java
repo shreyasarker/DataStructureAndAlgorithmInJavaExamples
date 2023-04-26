@@ -5,7 +5,7 @@ import java.util.*;
 * Find Second Maximum Value in an Array
 * 
 **/
-public class Main 
+public class SecondMaximumValueInArray 
 {
     public static int findSecondMaximum(int[] arr) 
     {

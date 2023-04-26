@@ -5,7 +5,7 @@ import java.util.*;
 * Find Minimum Value in an Array
 * 
 **/
-public class Main 
+public class MinimumValueInArray 
 {
     public static int findMinimum(int[] arr) 
     {

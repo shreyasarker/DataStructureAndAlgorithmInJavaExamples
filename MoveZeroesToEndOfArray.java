@@ -5,7 +5,7 @@ import java.util.*;
 *  Move Zeroes to End of an Array
 * 
 **/
-public class Main 
+public class MoveZeroesToEndOfArray 
 {
     public static void printArray(int[] arr) 
     {

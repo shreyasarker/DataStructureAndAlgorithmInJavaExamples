@@ -2,7 +2,7 @@ import java.util.*;
 
 /***
 *
-* Missing Number in an Array
+* Find Missing Number in an Array
 * Approach: We will use Sum of Natural Numbers to solve this.
 * 1 + 2 + 3 + 4 + .... = n * (n + 1) / 2
 * 

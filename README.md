@@ -7,3 +7,4 @@
 5. [Move Zeroes to End of an Array](https://github.com/shreyasarker/DataStructuresAndAlgorithmsInJavaExamples/blob/main/MoveZeroesToEndOfArray.java)
 6. [Resize an Array](https://github.com/shreyasarker/DataStructuresAndAlgorithmsInJavaExamples/blob/main/ResizeArray.java)
 7. [Find Missing Number in an Array](https://github.com/shreyasarker/DataStructuresAndAlgorithmsInJavaExamples/blob/main/MissingNumberInArray.java)
+8. [Check if a given String is a Palindrome](https://github.com/shreyasarker/DataStructuresAndAlgorithmsInJavaExamples/blob/main/PalindromeString.java)

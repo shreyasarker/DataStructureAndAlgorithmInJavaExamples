@@ -6,3 +6,4 @@
 4. [Find Second Maximum Value in an Array](https://github.com/shreyasarker/DataStructuresAndAlgorithmsInJavaExamples/blob/main/SecondMaximumValueInArray.java)
 5. [Move Zeroes to End of an Array](https://github.com/shreyasarker/DataStructuresAndAlgorithmsInJavaExamples/blob/main/MoveZeroesToEndOfArray.java)
 6. [Resize an Array](https://github.com/shreyasarker/DataStructuresAndAlgorithmsInJavaExamples/blob/main/ResizeArray.java)
+7. [Find Missing Number in an Array](https://github.com/shreyasarker/DataStructuresAndAlgorithmsInJavaExamples/blob/main/MissingNumberInArray.java)
